@@ -1,6 +1,6 @@
 ---
 description: The blue print for the green rush/ revolution.
-cover: .gitbook/assets/[Original size] ANK ANK (4).png
+cover: .gitbook/assets/[Original size] ANK ANK (6).png
 coverY: 0
 ---
 
