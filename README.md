@@ -1,5 +1,5 @@
 ---
-description: For whatever DankBank is, it is not a stock exchange.
+description: The blue print for the green rush/ revolution.
 cover: .gitbook/assets/[Original size] ANK ANK (4).png
 coverY: 0
 ---
