@@ -65,7 +65,7 @@ Once all these conditions have been fulfilled, DankBank is truly going to be a s
 
 #### The Final Phase.&#x20;
 
-It's a little far fetched, but the last phase for the mission objective is to release a rewards point system called Dank Coins and integrate them as a Crypto Currency.&#x20;
+It may seem like a little far fetched idea, but the last phase for the mission objective is to release a rewards point system called Dank Coins and integrate them as a Crypto Currency.&#x20;
 
 
 
